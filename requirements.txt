@@ -1,0 +1,11 @@
+pandas
+numpy
+dash
+plotly
+jupyter
+notebook
+yfinance
+beautifulsoup4
+requests
+folium
+scikit-learn
